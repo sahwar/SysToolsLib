@@ -120,7 +120,6 @@ Option | Description
   -v   | Display verbose information: Help users understand what the program is doing.
   -V   | Display the script version and exit.
   -X   | No Exec mode: Display what the program would do, but don't do it.
-       |
   -A   | Force ANSI encoding output. (Windows only)
   -O   | Force OEM encoding output. (Windows only)
   -U   | Force UTF8 encoding output. (Windows only)
