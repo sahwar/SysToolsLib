@@ -114,9 +114,8 @@ LICENSE.txt	| Project license (Apache 2.0)
 All tools (both scripts and C programs) support the -? option for help, and most share a few other common options:
 
 Option | Description
------- | -----------
+------ | ------------------------------------------------------------------------------
   -?   | Display a help screen.
-       |
   -d   | Display debug information: Help the author understand what code is running.
   -v   | Display verbose information: Help users understand what the program is doing.
   -V   | Display the script version and exit.
